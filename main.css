@@ -1,0 +1,187 @@
+body{  max-height: 21000px;
+background-color: black;
+}
+
+#wrapper{
+
+}
+h1{font-size: 100px;
+color: silver;
+text-align: center;
+border: 50px;
+border-style: dotted;
+border-width: 25px;
+border-color: silver;
+padding-right: 25px;
+}
+
+h2{font-size: 25px;
+color: silver;
+text-align: center;
+border: 5px;
+margin: 25px;
+padding: 50px;
+font-family: 'Press Start 2P', cursive;}
+
+#test1{ position:absolute;
+  width:200px;
+  text-align: center;
+  top:2800px;
+  left:10%;
+  margin-left:-52px;;
+
+}
+#astro{position:fixed;
+  width:200px;
+  line-height:120px;
+  text-align: center;
+  /*background-color:silver;*/
+  background-image: url("astro.gif");
+  top:600px;
+  left:10%;
+
+}
+  #portal:hover{background-image: url("portal1off.gif");}
+
+  #portal{
+    position:absolute;
+    width:400px;
+    line-height: 400px;
+    text-align: center;
+    background-image: url("portal1.gif");
+    top:2000px;
+    left:5%;
+    /*margin-left:-52px;*/
+  background-size: cover;}
+
+
+    #portal2{
+      position:absolute;
+      width:400px;
+      line-height: 400px;
+      text-align: center;
+      background-image:url("portal2.gif");
+    /*  background-color:silver;*/
+      top:5600px;
+      left:5%;
+
+      }
+  #portal2:hover{background-image: url("portal2off.gif");}
+
+      #portal3{position:absolute;
+        width:400px;
+        line-height: 400px;
+        text-align: center;
+
+      background-image:url("portal2.gif");
+        top:7400px;
+        left:5%;
+        margin-left:-52px;}
+
+          #portal3:hover{background-image: url("portal3off.gif");}
+
+        #portal4{position:absolute;
+          width:400px;
+          line-height: 400px;
+          text-align: center;
+
+          background-image: url("portal4.gif");
+          top:11200px;
+          left:5%;
+          margin-left:-52px;}
+
+            #portal4:hover{background-image: url("portal4off.gif");}
+
+          #portal5{position:absolute;
+            width:400px;
+            line-height: 400px;
+            text-align: center;
+
+            background-image: url("portal5.gif");
+            top:14000px;
+            left:5%;
+            margin-left:-52px;}
+              #portal5:hover{background-image: url("portal5off.gif");}
+            #portal6{position:absolute;
+              width:400px;
+              line-height: 400px;
+              text-align: center;
+
+              background-image: url("portal6.gif");
+              top:16800px;
+              left:5%;
+              margin-left:-52px;}
+                #portal6:hover{background-image: url("portal6off.gif");}
+              #portal7{position:absolute;
+                width:400px;
+                line-height: 400px;
+                text-align: center;
+
+                background-image: url("portal7.gif");
+                top:19200px;
+                left:5%;
+                margin-left:-52px;}
+  #portal7:hover{background-image: url("portal7off.gif");}
+
+  #portal8{background-image: url("portal8.gif");
+  position:absolute;
+  width:600px;
+  line-height: 600px;
+  top:21000px;
+  left:5%;
+  margin-left:-52px;}
+
+      #portal8:hover{background-image: url("portal8off.gif");}
+
+
+  #cloud{ position:absolute;
+    text-align:left;
+top:1200px;
+left:70%;
+}
+
+#cloud1{ position:absolute;
+  text-align:left;
+top:3200px;
+left:70%;
+}
+
+#cloud2{ position:absolute;
+  text-align:left;
+top:5800px;
+left:70%;
+}
+#cloud3{ position:absolute;
+  text-align:left;
+top:7200px;
+left:70%;
+}
+#cloud4{ position:absolute;
+  text-align:left;
+top:9200px;
+left:70%;
+}
+#cloud5{ position:absolute;
+  text-align:left;
+top:11200px;
+left:70%;
+}
+#cloud6{ position:absolute;
+  text-align:left;
+top:15200px;
+left:70%;
+}
+#cloud7{ position:absolute;
+  text-align:left;
+top:18200px;
+left:70%;}
+
+#cloud8{ position:absolute;
+  text-align:left;
+top:19000px;
+left:70%;}
+
+#cloud9{ position:absolute;
+  text-align:left;
+top:20000px;
+left:70%;}
